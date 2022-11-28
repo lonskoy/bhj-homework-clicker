@@ -10,7 +10,7 @@ img.onmousedown = function() {
 }
 
 img.onmouseup = function() {    // По чему не срабатывает событи на отпущеную клавишу мыши?
-	img.width = '250';
+	img.width = '200';
 }
 
 /*
